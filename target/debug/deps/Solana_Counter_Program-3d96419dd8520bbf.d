@@ -1,5 +1,0 @@
-D:\rust\Solana-Counter-Program\target\debug\deps\Solana_Counter_Program-3d96419dd8520bbf.d: src\lib.rs
-
-D:\rust\Solana-Counter-Program\target\debug\deps\libSolana_Counter_Program-3d96419dd8520bbf.rmeta: src\lib.rs
-
-src\lib.rs:
