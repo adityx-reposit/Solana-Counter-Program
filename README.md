@@ -1,1 +1,1 @@
-Counter client added with javascript which can readily interact with the deployed program
+client side improved with pinaccio and anchor seperately
